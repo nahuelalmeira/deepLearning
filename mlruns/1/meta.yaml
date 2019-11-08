@@ -1,0 +1,4 @@
+artifact_location: file:///media/nahuel/datos/d/diplomatura/AprendizajeProfundo/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: very_base_approach
