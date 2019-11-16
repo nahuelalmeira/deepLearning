@@ -1,5 +1,7 @@
 # Aprendizaje Profundo
 
-Repositorio oficial de la materia optativa "Aprendizaje Profundo" (Deep Learning) de la Diplomatura en Ciencias de Datos de la UNC.
+Archivo de práctico 1: practico1_almeira.ipynb
 
-Para comenzar a instalar y configurar el entorno de trabajo por favor seguir las instrucciones detalladas en el [Notebook 0](./0_set_up.ipynb).
+Archivos con modelos: primer_modelo.py, segundo_modelo.py, tercer_modelo.py
+
+Archivo con funciones auxiliares: auxiliary.py
